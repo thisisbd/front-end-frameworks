@@ -309,3 +309,11 @@ RÖCSSTI is a very lightweight CSS base which includes accessibility notions, ty
 **Responsive:** Yes
 
 **Website:** http://www.getuikit.com
+
+## Webplate
+
+> A free UX project bringing the best of the web together into one great package.  An awesome front-end framework that lets you stay focused on building your site or app all the while remaining really easy to use.
+
+**Responsive:** Yes
+
+**Website:** http://getwebplate.com
